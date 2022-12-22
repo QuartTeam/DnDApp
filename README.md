@@ -15,6 +15,8 @@
 
 [Примерная диаграмма активности](https://github.com/QuartTeam/DnDApp/blob/main/docs/diagram.png "architecture.md")
 
+[Процессы](https://github.com/QuartTeam/DnDApp/blob/main/docs/process.md "architecture.md")
+
 ## Примеры аналогов
 ### D&D Beyond
 
