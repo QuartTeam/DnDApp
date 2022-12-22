@@ -17,6 +17,8 @@
 
 [Процессы](https://github.com/QuartTeam/DnDApp/blob/main/docs/process.md "architecture.md")
 
+[Команда](https://github.com/QuartTeam/DnDApp/blob/main/docs/team.md "architecture.md")
+
 ## Примеры аналогов
 ### D&D Beyond
 
